@@ -14,6 +14,7 @@ import com.example.dw.numpercentview.R;
 
 /**
  * Created by RigarSu on 2016/10/12.
+ * E-mail: 16338556@qq.com
  * Comment
  */
 public class NumPercentView extends View {
