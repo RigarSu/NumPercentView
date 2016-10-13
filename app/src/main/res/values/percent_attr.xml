@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NumPercentView">
+        <attr name="textColor" format="color" />
+        <attr name="textSize" format="dimension" />
+        <attr name="backgroundColor" format="color" />
+        <attr name="stripColor" format="color" />
+        <attr name="percentColor" format="color" />
+        <attr name="totalValue" format="integer" />
+        <attr name="currentValue" format="integer" />
+    </declare-styleable>
+</resources>
